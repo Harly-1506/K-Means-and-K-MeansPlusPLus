@@ -13,9 +13,8 @@ git clone https://github.com/Harly-1506/American-Sign-languages-datasets-Classif
 - To visualize how to Kmeans works, I used Pygame to code this App Interface
 ```
  python Kmean Visualization.py
- 
 ```
-  
+- To see python 
   
 
 
