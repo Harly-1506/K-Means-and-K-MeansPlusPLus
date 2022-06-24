@@ -8,7 +8,9 @@
 ### 2. Run a code!!!
   '''
   git clone https://github.com/Harly-1506/American-Sign-languages-datasets-Classification.git
+  
   '''
+  
   
 
 
