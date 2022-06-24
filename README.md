@@ -1,2 +1,5 @@
 # K-Means-and-K-MeansPlusPLus
-** This project compare between K-means and K-means++ algorithm
+** This project compare between K-means and K-means++ algorithm**
+
+
+
