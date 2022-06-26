@@ -16,10 +16,12 @@ git clone https://github.com/Harly-1506/American-Sign-languages-datasets-Classif
 ```
 - To see python compress images using **Kmeans algorithm** with sklearn libraly
   - Fisrt you need  to choose image you want to compress, then you can chosse K clusters by using:
+  
   ```
   python Choose_K_elbow.py
   ```
   - Then you have **K clusters** suitable, run this file to compress image:
+  
   ```
   python Change Img  size.py 
   ```
